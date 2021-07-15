@@ -6,10 +6,10 @@
 
 body {
   background-color: #344a72;
+  padding: 20px;
 }
 
 .signup {
-  margin: 20px 0px;
 }
 
 .signup .container {
