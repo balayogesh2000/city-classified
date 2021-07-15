@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #344a72;
+}
+
+.signup {
+  margin: 20px 0px;
+}
+
+.signup .container {
+  background-color: #fff;
+  max-width: 400px;
+  padding: 10px 20px;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.signup .submit {
+  display: block !important;
+  width: 100%;
+}
